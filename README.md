@@ -15,3 +15,19 @@ The project first started off being named GodSpeed Search, this name has remaind
 The Next part in creation fo the web browser was the use of Wix, a web site building platform, its use allowed us to create the landing page that the web browser opens to as well as the Home button links back to.There was the need for a useable seach bar and  to that end we went with using a Google Programmable Search Engine. This allowed for a Search bar to be embedded in to the Home Page of the search engine.
 
 With the web frame work and the Search fuctionallity completed the last part needed for the project was the privacy feature, OpenVPN was chosen for its service. To this end we uses a service called Linode to host an OpenVPN server that GodSpeed Search can connected to for anonymous web browsing.
+
+# Instructions
+
+1. First install the PyQt5 library, use pip istall PyQt5 from CMD, this will allow the project to work.
+
+2. Download project files and open them in an python Idea like Intellij Idea
+
+3. Download OpenVPN Connect and connect to 72.14.191.177, The IP address of the GodSpeedVPN Server
+   - Use Password: Enter425
+
+4. Run the project from the Idea, the project should open to the GodSpeed Search Start Page, you can use the top search bar to explore the web, for demonstration: Youtube, Google, Amazon and Microsoft can be visited.
+
+5. To test the VPN Feature whatismyip.com can be visited, once with the vpn off and again with the vpn activated to test if it works.
+
+
+
