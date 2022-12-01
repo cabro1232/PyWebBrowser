@@ -5,6 +5,7 @@ By Group 5
 - Carson Brown
 - Anthony Madu
 - Kameryn Hondras
+- Nicholas Ighade
 
 This Projects main goal was to develope a working web browser with privacy features.
 
@@ -29,5 +30,28 @@ With the web frame work and the Search fuctionallity completed the last part nee
 
 5. To test the VPN Feature whatismyip.com can be visited, once with the vpn off and again with the vpn activated to test if it works.
 
+# Development Log
 
+Date: 8/29/2022
+ - All individuals seleceted their top 3 choices for their Projects
 
+Date: 9/5/2022
+-  Project Proposal phase: Group 5 submited a group proposal on a Privacy Search Engine
+
+Date: 9/29/2022
+- The group put forth their first Progress report, this was to basically outline our   functions of the project.
+
+Date: 10/13/2022
+- Group 5 presented their initial project to the class and the Instructor
+
+Date:10/27/2022
+- Group 5 chose to re-structure the project, the new and improved GodSpeed Search could exlpore the web but did not have any Privacy features implemented yet.
+
+Date: 11/10/2022
+-Missed 4th Proposal 
+
+Date: 11/26/2022
+- VPN Feature work
+
+Date: 12/1/2022
+- Final Presentation 
