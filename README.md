@@ -55,3 +55,56 @@ Date: 11/26/2022
 
 Date: 12/1/2022
 - Final Presentation 
+
+# References
+Flaticon Icons
+
+<a href="https://www.flaticon.com/free-icons/global" title="global icons">Global icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/block" title="block icons">Block icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/vpn" title="vpn icons">Vpn icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/previous" title="previous icons">Previous icons created by Secret Studio - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by Secret Studio - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home button icons created by Ehtisham Abid - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/search" title="search icons">Search icons created by Maxim Basinski Premium - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/biscuit" title="biscuit icons">Biscuit icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/block" title="block icons">Block icons created by Pixelmeetup - Flaticon</a>
+
+PyQT 5 library
+-[Riverbank Computing - 2022]
+
+Intellij IDEA
+-[JetBrains s.r.o.- 2022]
+
+Wix Website Builder
+-[Web development company - 2022]
+
+OpenVPN VPN service
+-[OpenVPN Inc.- 2022]
+
+Linode Server Hosting
+-[Linode LLC - 2022]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
